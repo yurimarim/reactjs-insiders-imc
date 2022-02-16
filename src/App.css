@@ -1,0 +1,64 @@
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: #fff;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+span {
+  margin: 12px 0;
+  font-size: 18px;
+}
+
+.area-input {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.area-input input {
+  width: 100%;
+  height: 46px;
+  margin-bottom: 12px;
+  padding: 0 12px;
+  background-color: #26427e;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+}
+
+input::placeholder {
+  color: #DEDEDE;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid #0a2351;
+  box-shadow: 0 0 10px #26427e;
+}
+
+.area-input button {
+  width: 150px;
+  padding: 10px;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 30px;
+  background: #0a2351;
+}
+
+button:hover {
+  background: #26427e;
+  transition: 1s;
+}
