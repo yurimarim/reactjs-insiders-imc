@@ -1,3 +1,16 @@
+## Sobre o projeto
+
+Projeto IMC Calculator desenvolvido durante a Semana ReactJS ministrada pelo SujeitoProgramador com objetivo de fixar e estruturar conhecimentos utilizando React.
+
+## Tecnologias Utilizadas
+
+- React
+- CSS
+
+## Rodar projeto
+
+- Em breve...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
